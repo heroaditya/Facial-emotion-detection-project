@@ -1,0 +1,1 @@
+It is a simple facial emotion detection project trained on FER-2013 images dataset containing emotions divided into 7 classes. This is a beginner friendly Machine Learning project, that helps one to understand the applications of machine learning techniques. It uses cv2 for real-time emotion detection
